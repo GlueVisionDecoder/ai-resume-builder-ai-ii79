@@ -1,4 +1,4 @@
-# 
+# Oficial AI Resume Builder preajustes. Con extracción de características y redes neuronales — optimizado para el máximo rendimiento.
 
 
 
